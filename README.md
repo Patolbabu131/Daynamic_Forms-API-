@@ -23,7 +23,8 @@ We can add multiple question by clinking on Add Question Button and select the t
 # Edit Form
 ![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/efe97595-6ec1-4131-a2a1-17d5cd0435e3)
 We can Add new Questions and remove Questions by clicking on remove button
-![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/805c85bd-e1f9-460b-8d48-87180fd23bca)
+![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/e8195279-06e0-489e-8719-463f940ffe7e)
+
 # Delete Form with Conformation alert
 ![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/902b47d7-856d-4057-8e1b-69b53b9ff15e)
 
