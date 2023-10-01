@@ -16,8 +16,13 @@ The creation form is a versatile tool makes it easy to construct variety of ques
 # Delete 
 
 ![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/cacdeba0-231e-4bde-bf84-aae3c1562a8a)
-# Add form 
-![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/311aa0c4-850f-4591-b149-e2ae92b09820)
-We can add multiple question by clinking on Add Question Button and select the type of question whether the the question is Single line or True/Fals
+# Add Form 
+![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/51e8a383-71d8-4634-b42a-3d538fc4a3e0)
+
+We can add multiple question by clinking on Add Question Button and select the type of question whether the the question is Single line or True/False
+# Edit Form
+![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/efe97595-6ec1-4131-a2a1-17d5cd0435e3)
+We can Add new Questions and remove Questions by clicking on remove button
+![image](https://github.com/Patolbabu131/Daynamic_Forms-API-/assets/97328289/805c85bd-e1f9-460b-8d48-87180fd23bca)
 
 
